@@ -1,3 +1,22 @@
+html{
+    background-color:#222 !important;
+}
+
+/*apps gallery dropdown*/
+.EHzcec{
+   background-color: #25272a !important;
+    box-shadow: unset;
+}
+.EHzcec span{
+    color: white;
+     background-color: transparent !important;
+}
+.EHzcec li a:hover {
+    background-color: #39424a !important;
+}
+
+
+
 div#hdtbSum,
 #hdtb div,
 .sfbgg,
@@ -5,12 +24,14 @@ div#hdtbSum,
     background-color: #25272a !important;
 }
 
-/*Search*/
+/*Search and dropdown*/
 .RNNXgb,
 .sbibod,
-.sbib_a{
+.sbib_a,
+.zthhpf,
+.lV0vqc{
     background: #25272a;
-    border:1px solid !important
+    border:1px solid white !important
 }
 
 .aajZCb {
@@ -18,22 +39,31 @@ div#hdtbSum,
     border: 1px solid ;
     border-top: none;
 }
-.xtSCL {
-    border-top: none;
+
+/*search dropdown segregater */
+.xtSCL,
+.fNHVKc,
+.lV0vqc{
+    border-top: none !important;
 }
+
 li.sbct div,
 .gLFyf,
+.E2oEG div,
 h2{
     color:white !important;
 }
 input{
     color:white !important;
-        background-color: #25272a;
+    background-color: transparent !important;
 }
 .kno-ftr {
     margin-right: 0px;
 }
-li.sbhl{
+
+/*search dropdown highlight */
+li.sbhl,
+.Vwmzxb{
     background-color: #39424a !important
 }
 .kp-blk,
@@ -48,7 +78,6 @@ div,
 span.LrzXr.kno-fv{
      color:white;
 }
-html,
 div#cnt,
 #fbar{
     background-color:#222 !important;
@@ -65,6 +94,9 @@ div#cnt,
 g-inner-card,
 .kp-blk.EyBRub.knowledge-panel.Wnoohf.OJXvsb{
     background-color:#25272a !important;
+}
+
+g-inner-card {
     border:1px solid white !important;
 }
  .related-question-pair .g  {
@@ -127,10 +159,63 @@ a.q.qs,
 cite{
     color:#b0b0b0 !important;
 }
+.cEPPT {
+    border:none;
+}
+/*top nav bar */
+.rQEFy {
+    color: white !important;
+}
+.ndYZfc a,
+.PAYrJc div{
+    color:#b0b0b0 !important;
+}
+
 .Ftghae span {
     color:white !important;
 }
 
 .y8Jpof:hover{
     background:none !important;
+}
+
+body {
+    background-color: unset;
+}
+
+/*images page*/
+
+.jZWadf,
+header{
+    background-color: #25272a;
+}
+.WGvvNb {
+    color: white;
+}
+.sMi44c:hover div {
+    color: #4183c4 !important;
+}
+.F9PbJd {
+    background-color: #25272a;
+    border: none;
+}
+
+/*safe search*/
+.jq2rAe {
+    background-color: #25272a;
+}
+.jq2rAe li:hover {
+    background-color: #39424a;
+}
+
+/* settings dropdown */ 
+.cF4V5c {
+    background-color: #25272a;
+}
+.cF4V5c a {
+        color: white !important;
+}
+.cF4V5c a:hover {
+    background-color: #39424a;
+
 }
