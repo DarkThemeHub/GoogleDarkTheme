@@ -1,1 +1,1 @@
-^https?:\/\/google)\.(?!io|myshopify|blog))\/.*
+^https?:\/\/google)\..*\/.*
