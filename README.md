@@ -10,9 +10,8 @@ Show your support and hit that Star :P
 [How to Contribute](https://github.com/DarkThemeHub/GoogleDarkTheme/blob/master/CONTRIBUTING.md)
 
 <hr>
-<h2>Google Dark theme is nearly ready!</h2>
+<h2>Google Dark theme And Google Centered is coming!</h2>
 
-<h2>Google centered is also in polishing state!</h2>
 <img src="https://i.gyazo.com/a98d4fa690b8f674eaf0b170bdef83b1.gif"/>
 
 <hr>
