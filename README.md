@@ -1,38 +1,19 @@
-[![image](https://img.shields.io/github/v/release/Darkthemehub/GithubDarktheme?style=flat-square)](https://github.com/DarkThemeHub/GithubDarkTheme/releases/latest)
-[![image](https://img.shields.io/github/release-date/darkthemehub/githubdarktheme?color=%23DD7A00&label=Last%20updated&style=flat-square)](https://github.com/DarkThemeHub/GithubDarkTheme/releases)
-[![image](https://img.shields.io/github/contributors/DarkThemehub/GithubDarktheme?style=flat-square)](https://github.com/DarkThemeHub/GithubDarkTheme/graphs/contributors)
-[![image](https://img.shields.io/github/size/Darkthemehub/GithubDarkTheme/Generated/github.user.styl?color=purple&label=Theme%20size&style=flat-square)](https://github.com/DarkThemeHub/GithubDarkTheme/blob/master/Generated/github.user.styl)
-# GithubDarkTheme
+[![image](https://img.shields.io/github/v/release/Darkthemehub/GithubDarktheme?style=flat-square)](https://github.com/DarkThemeHub/GoogleDarkTheme/releases/latest)
+[![image](https://img.shields.io/github/release-date/darkthemehub/githubdarktheme?color=%23DD7A00&label=Last%20updated&style=flat-square)](https://github.com/DarkThemeHub/GoogleDarkTheme/releases)
+[![image](https://img.shields.io/github/contributors/DarkThemehub/GoogleDarkTheme?style=flat-square)](https://github.com/DarkThemeHub/GithubDarkTheme/graphs/contributors)
+[![image](https://img.shields.io/github/size/Darkthemehub/GoogleDarkTheme/Generated/github.user.styl?color=purple&label=Theme%20size&style=flat-square)](https://github.com/DarkThemeHub/GoogleDarkTheme/blob/master/Generated/github.user.styl)
+# GoogleDarkTheme
 Show your support and hit that Star :P
 
 [Join the discord](https://discord.gg/pSs9YYn)
 
-[How to Contribute](https://github.com/DarkThemeHub/GithubDarkTheme/blob/master/CONTRIBUTING.md)
+[How to Contribute](https://github.com/DarkThemeHub/GoogleDarkTheme/blob/master/CONTRIBUTING.md)
 
 <hr>
+<h2>Google Dark theme is nearly in alpha!</h2>
 
-## Install the theme
-#### option 1
-
-##### Step 1 (if not already installed browser extension)
-[![image](https://img.shields.io/badge/Install-Stylus%20Chrome%20Extension-116b59.svg?longCache=true&amp;style=for-the-badge)](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne/)
-
-[![image](https://img.shields.io/badge/Install-Stylus%20Firefox%20Extension-116b59.svg?longCache=true&amp;style=for-the-badge)](https://addons.mozilla.org/en-GB/firefox/addon/styl-us/)
-
-##### Step 2
-[![image](https://img.shields.io/badge/Install/Update%20directly%20with-Stylus-116b59.svg?longCache=true&amp;style=for-the-badge)](https://raw.githubusercontent.com/DarkThemeHub/GithubDarkTheme/master/Generated/github.user.styl)
-
-##### option 2 (Not recommended)
-["Stylish" browser extension steals all your internet history](https://robertheaton.com/2018/07/02/stylish-browser-extension-steals-your-internet-history/)
-
-Userstyles.org Link to Theme: https://userstyles.org/styles/168350/githubdarktheme
-
-
-##### option 3 ( Beta )
-Install the dedicated chrome extension! [Click Here](https://github.com/DarkThemeHub/GithubDarkTheme/tree/master/Extensions/Chrome) | ![image](https://camo.githubusercontent.com/6eb5eb47abc1c6d81946b18633b2edbf4cc50e44/68747470733a2f2f692e6779617a6f2e636f6d2f33306361623663636638386334386234613830656630383965393266373763302e706e67)
------------- | -------------
-
-Firefox will follow if i have the effort!
+<h2>Google centered is also in polishing state!</h2>
+<img src="https://i.gyazo.com/a98d4fa690b8f674eaf0b170bdef83b1.gif"/>
 
 <hr>
 
