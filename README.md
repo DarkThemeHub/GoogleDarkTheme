@@ -27,7 +27,3 @@ Requirements:
 * Well mannered
 * Can communicate well in english 
 * Knows basics of css and html
-
-
-
-![image](https://i.gyazo.com/21ad1e0850b0259867cc1803a5b68bdc.png)
