@@ -1,10 +1,10 @@
 /* ==UserStyle==
 @name         <ThemeName>
-@namespace    github.com/DarkThemeHub/GithubDarkTheme
+@namespace    github.com/DarkThemeHub/GoogleDarkTheme
 @version      <Version>
-@description  Dark theme for github.
+@description  Dark theme for google.
 @author       DarkThemeHub
-@homepageURL  https://github.com/DarkThemeHub/GithubDarkTheme
-@supportURL   https://github.com/DarkThemeHub/GithubDarkTheme/issues
-@updateURL    https://raw.githubusercontent.com/DarkThemeHub/GithubDarkTheme/master/Generated/github.user.styl
+@homepageURL  https://github.com/DarkThemeHub/GoogleDarkTheme
+@supportURL   https://github.com/DarkThemeHub/GoogleDarkTheme/issues
+@updateURL    https://raw.githubusercontent.com/DarkThemeHub/GoogleDarkTheme/master/Generated/github.user.styl
 ==/UserStyle== */
