@@ -1,148 +1,52 @@
+
 html {
     background-color: #25272a !important;
-    margin: auto;
+
+}
+/* google.com button */
+.jhp input[type="submit"] {
+    background-image: none !important;
+}
+/* map widget in search result */
+
+.vk_c, .vk_cxp, .yyjhs {
+    background-color: unset !important;
+}
+.uMdZh:hover {
+    background-color: #39424a !important;
 }
 
-/* center page */
-@media only screen and (max-width: 4000px) {
-    html {
-        max-width: 40%;
-    }
-
-    #searchform {
-        width: 40vw;
-    }
+.dbg0pd {
+    color: white !important;
 }
 
-@media only screen and (max-width: 3700px) {
-    html {
-        max-width: 45%;
-    }
-
-    #searchform {
-        width: 48vw;
-    }
+/* Maps */
+/* - top bar */
+#rllhd__fldhc {
+    background-color: unset !important;
 }
 
-@media only screen and (max-width: 3500px) {
-    html {
-        max-width: 47%;
-    }
-
-    #searchform {
-        width: 48vw;
-    }
+/* - dropdown */
+.czHJJ {
+    background-color: #25272a !important;
 }
-
-@media only screen and (max-width: 3000px) {
-    html {
-        max-width: 55%;
-    }
-
-    #searchform {
-        width: 54vw;
-    }
+.w3RMhb:hover {
+    background-color: #39424a !important; 
 }
-
-@media only screen and (max-width: 2900px) {
-    html {
-        max-width: 55%;
-    }
-
-    #searchform {
-        width: 55vw;
-    }
+.w3RMhb .zFsEvf {
+    color: white;
 }
-
-@media only screen and (max-width: 2600px) {
-    html {
-        max-width: 70%;
-    }
-
-    #searchform {
-        width: 70vw;
-    }
-}
-
-@media only screen and (max-width: 2000px) {
-    html {
-        max-width: 85%;
-    }
-
-    #searchform {
-        width: 84vw;
-    }
-}
-
-@media only screen and (max-width: 1700px) {
-    html {
-        max-width: 90%;
-    }
-
-    #searchform {
-        width: 90vw;
-    }
-}
-
-@media only screen and (max-width: 1600px) {
-    html {
-        max-width: 100%;
-    }
-
-    #searchform {
-        width: 98vw;
-    }
-}
-
-@media only screen and (max-width: 1500px) {
-    html {
-        max-width: 100%;
-    }
-    #searchform {
-        width: 98vw;
-    }
-}
-
-@media only screen and (max-width: 1400px) {
-    html {
-        max-width: 100%;
-    }
-
-    #searchform {
-        width: 98vw;
-    }
-}
-#cnt {
-    width: 100%;
-    margin: auto;
-}
-.mw {
-    width: 100%;
-    max-width: unset !important;
-    margin: auto;
-}
-#bcenter {
-    width: 0px;
-}
-div#rcnt {
-    width: 100%;
-    display: grid;
-    grid-template-columns: auto 50% auto;
-}
-
-div#rhs {
-    margin: unset !important;
-    width: 100%;
-}
-#center_col {
-    width: 100%;
-    margin: unset !important;
+/* - businesses items */
+.rllt__local-item-selected {
+    background-color: #39424a !important; 
 }
 /*apps gallery dropdown*/
+/*
 .EHzcec {
-    background-color: #25272a !important;
+    background: #25272a !important;
     box-shadow: unset;
 }
+
 .EHzcec span {
     color: white;
     background-color: transparent !important;
@@ -150,7 +54,10 @@ div#rhs {
 .EHzcec li a:hover {
     background-color: #39424a !important;
 }
-
+.Rq5Gcb {
+    color:white !important;
+}
+*/
 div#hdtbSum,
 #hdtb div,
 .sfbgg,
@@ -190,9 +97,6 @@ h2 {
 input {
     color: white !important;
     background-color: transparent !important;
-}
-.kno-ftr {
-    margin-right: 0px;
 }
 
 /*search dropdown highlight */
@@ -317,6 +221,9 @@ cite {
 body {
     background-color: unset;
 }
+.cJzOGc {
+    color: #bdbdbd !important;
+}
 
 /*images page*/
 .jZWadf,
@@ -333,7 +240,9 @@ header {
     background-color: #25272a;
     border: none;
 }
-
+RScZKc {
+    color:white !important;
+}
 /*safe search*/
 .jq2rAe {
     background-color: #25272a;
