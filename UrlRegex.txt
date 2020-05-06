@@ -1,1 +1,1 @@
-^https?:\/\/google)\..*\/.*
+^https?:\/\/www.google\..*
