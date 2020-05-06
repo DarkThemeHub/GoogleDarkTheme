@@ -9,7 +9,7 @@
 @updateURL    https://raw.githubusercontent.com/DarkThemeHub/GoogleDarkTheme/master/Generated/github.user.styl
 ==/UserStyle== */
 
-@-moz-document regexp("^https?:\/\/www.google\..*") {
+@-moz-document regexp("^https?:\/\/www\.google\.(.{1,3}){2}\/(search\?)?(?!flights|maps)(?!.*&tbm=(shop|fin)&).*") {
 
 html {
     background-color: #25272a !important;
