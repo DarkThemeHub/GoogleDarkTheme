@@ -5,15 +5,28 @@
 # GoogleDarkTheme
 Show your support and hit that Star :P
 
-[Join the discord](https://discord.gg/pSs9YYn)
+[Join the discord](https://discord.gg/pSs9YYn) to stay up to date with releases and submit other suggestions
 
 [How to Contribute](https://github.com/DarkThemeHub/GoogleDarkTheme/blob/master/CONTRIBUTING.md)
 
+## Install the theme
+
+##### Step 1 (if not already installed browser extension)
+[![image](https://img.shields.io/badge/Install-Stylus%20Chrome%20Extension-116b59.svg?longCache=true&amp;style=for-the-badge)](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne/)
+
+[![image](https://img.shields.io/badge/Install-Stylus%20Firefox%20Extension-116b59.svg?longCache=true&amp;style=for-the-badge)](https://addons.mozilla.org/en-GB/firefox/addon/styl-us/)
+
+##### Step 2
+[![image](https://img.shields.io/badge/Install/Update%20directly%20with-Stylus-116b59.svg?longCache=true&amp;style=for-the-badge)](https://raw.githubusercontent.com/DarkThemeHub/GoogleDarkTheme/master/Generated/github.user.styl)
+
+
 <hr>
-<h2>Google Dark theme And Google Centered is coming!</h2>
-
-<img src="https://i.gyazo.com/a98d4fa690b8f674eaf0b170bdef83b1.gif"/>
-
+<table><tr><td>
+<img border="10" src="https://i.gyazo.com/2e05020f9f84552b7848fc6370d1c7d5.png"/>
+</td></tr></table>
+<table><tr><td>
+<img src="https://i.gyazo.com/f915f52917c1d9415134b333e55b3681.png"/>
+</td></tr></table>
 <hr>
 
 # Join the DarkThemeHub Team
