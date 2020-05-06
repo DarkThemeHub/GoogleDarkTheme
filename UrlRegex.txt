@@ -1,1 +1,1 @@
-^https?:\/\/www.google\..*
+^https?:\/\/www\.google\.(.{1,3}){2}\/(search\?)?(?!flights|maps)(?!.*&tbm=(shop|fin)&).*
