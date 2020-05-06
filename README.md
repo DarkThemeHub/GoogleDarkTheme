@@ -10,11 +10,7 @@ Show your support and hit that Star :P
 [How to Contribute](https://github.com/DarkThemeHub/GoogleDarkTheme/blob/master/CONTRIBUTING.md)
 
 <hr>
-<h2>Google Dark theme And Google Centered is coming!</h2>
-
-<img src="https://i.gyazo.com/a98d4fa690b8f674eaf0b170bdef83b1.gif"/>
-
-<hr>
+[![Image from Gyazo](https://i.gyazo.com/f915f52917c1d9415134b333e55b3681.png)](https://gyazo.com/f915f52917c1d9415134b333e55b3681)
 
 # Join the DarkThemeHub Team
 DarkThemeHub's goal is to create an active dark theme community that create and maintain quality dark themes for websites devs use daily.
