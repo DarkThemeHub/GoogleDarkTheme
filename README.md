@@ -10,8 +10,10 @@ Show your support and hit that Star :P
 [How to Contribute](https://github.com/DarkThemeHub/GoogleDarkTheme/blob/master/CONTRIBUTING.md)
 
 <hr>
+<img src="https://i.gyazo.com/2e05020f9f84552b7848fc6370d1c7d5.png"/>
+<hr>
 <img src="https://i.gyazo.com/f915f52917c1d9415134b333e55b3681.png"/>
-
+<hr>
 # Join the DarkThemeHub Team
 DarkThemeHub's goal is to create an active dark theme community that create and maintain quality dark themes for websites devs use daily.
 
