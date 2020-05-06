@@ -5,7 +5,7 @@
 # GoogleDarkTheme
 Show your support and hit that Star :P
 
-[Join the discord](https://discord.gg/pSs9YYn)
+[Join the discord](https://discord.gg/pSs9YYn) to stay up to date with releases and submit other suggestions
 
 [How to Contribute](https://github.com/DarkThemeHub/GoogleDarkTheme/blob/master/CONTRIBUTING.md)
 
@@ -17,6 +17,7 @@ Show your support and hit that Star :P
 <img src="https://i.gyazo.com/f915f52917c1d9415134b333e55b3681.png"/>
 </td></tr></table>
 <hr>
+
 # Join the DarkThemeHub Team
 DarkThemeHub's goal is to create an active dark theme community that create and maintain quality dark themes for websites devs use daily.
 
