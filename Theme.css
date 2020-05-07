@@ -270,5 +270,11 @@ scrolling-carousel {
     margin-bottom: 10px;
 }
 scrolling-carousel div span div a:hover {
-    background-color: #39424a;
+	background-color: #39424a;
+}
+
+/* Maps */
+/* Invert Map */
+.gm-style {
+    filter: invert(1) saturate(1.4);
 }
