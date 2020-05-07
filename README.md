@@ -9,7 +9,7 @@ Show your support and hit that Star :P
 
 [How to Contribute](https://github.com/DarkThemeHub/GoogleDarkTheme/blob/master/CONTRIBUTING.md)
 
-[Regex Test](https://regex101.com/r/G2PPry/6/)
+[Regex Test](https://regex101.com/r/G2PPry/8)
 ## Install the theme
 
 ##### Step 1 (if not already installed browser extension)
