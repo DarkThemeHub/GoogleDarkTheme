@@ -20,16 +20,6 @@ Show your support and hit that Star :P
 ##### Step 2
 [![image](https://img.shields.io/badge/Install/Update%20directly%20with-Stylus-116b59.svg?longCache=true&amp;style=for-the-badge)](https://raw.githubusercontent.com/DarkThemeHub/GoogleDarkTheme/master/Generated/github.user.styl)
 
-
-<hr>
-<table><tr><td>
-<img border="10" src="https://i.gyazo.com/2e05020f9f84552b7848fc6370d1c7d5.png"/>
-</td></tr></table>
-<table><tr><td>
-<img src="https://i.gyazo.com/f915f52917c1d9415134b333e55b3681.png"/>
-</td></tr></table>
-<hr>
-
 # Join the DarkThemeHub Team
 DarkThemeHub's goal is to create an active dark theme community that create and maintain quality dark themes for websites devs use daily.
 
@@ -40,3 +30,13 @@ Requirements:
 * Well mannered
 * Can communicate well in english 
 * Knows basics of css and html
+
+
+<hr>
+<table><tr><td>
+<img border="10" src="https://i.gyazo.com/2e05020f9f84552b7848fc6370d1c7d5.png"/>
+</td></tr></table>
+<table><tr><td>
+<img src="https://i.gyazo.com/f915f52917c1d9415134b333e55b3681.png"/>
+</td></tr></table>
+<hr>
