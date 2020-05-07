@@ -2,3 +2,5 @@
 Extensions/Chrome/target/npmlist\.json
 
 Extensions/Chrome/.vscode/
+
+node_modules

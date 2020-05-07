@@ -1,0 +1,22 @@
+{
+  "name": "init",
+  "version": "1.0.0",
+  "description": "[![image](https://img.shields.io/github/v/release/Darkthemehub/GoogleDarkTheme?style=flat-square)](https://github.com/DarkThemeHub/GoogleDarkTheme/releases/latest)\r [![image](https://img.shields.io/github/release-date/darkthemehub/GoogleDarkTheme?color=%23DD7A00&label=Last%20updated&style=flat-square)](https://github.com/DarkThemeHub/GoogleDarkTheme/releases)\r [![image](https://img.shields.io/github/contributors/DarkThemehub/GoogleDarkTheme?style=flat-square)](https://github.com/DarkThemeHub/GithubDarkTheme/graphs/contributors)\r [![image](https://img.shields.io/github/size/Darkthemehub/GoogleDarkTheme/Generated/github.user.styl?color=purple&label=Theme%20size&style=flat-square)](https://github.com/DarkThemeHub/GoogleDarkTheme/blob/master/Generated/github.user.styl)\r # GoogleDarkTheme\r Show your support and hit that Star :P",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarkThemeHub/GoogleDarkTheme.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DarkThemeHub/GoogleDarkTheme/issues"
+  },
+  "homepage": "https://github.com/DarkThemeHub/GoogleDarkTheme#readme",
+  "dependencies": {
+    "sass-loader": "^8.0.2"
+  }
+}
