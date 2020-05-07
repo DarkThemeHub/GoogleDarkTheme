@@ -12,6 +12,7 @@ Show your support and hit that Star :P
 [Regex Test](https://regex101.com/r/G2PPry/8)
 
 <hr>
+
 ## Install the theme
 
 ##### Step 1 (if not already installed browser extension)
@@ -23,6 +24,7 @@ Show your support and hit that Star :P
 [![image](https://img.shields.io/badge/Install/Update%20directly%20with-Stylus-116b59.svg?longCache=true&amp;style=for-the-badge)](https://raw.githubusercontent.com/DarkThemeHub/GoogleDarkTheme/master/Generated/github.user.styl)
 
 <hr>
+
 # Join the DarkThemeHub Team
 DarkThemeHub's goal is to create an active dark theme community that create and maintain quality dark themes for websites devs use daily.
 
