@@ -4,7 +4,7 @@
 [![image](https://img.shields.io/github/size/Darkthemehub/GoogleDarkTheme/Generated/github.user.styl?color=purple&label=Theme%20size&style=flat-square)](https://github.com/DarkThemeHub/GoogleDarkTheme/blob/master/Generated/github.user.styl)
 # GoogleDarkTheme
 
-Hey! Also use this with Our [Google Centered](https://github.com/DarkThemeHub/GoogleCentered)!
+Hey! Also use this with [Google Centered](https://github.com/DarkThemeHub/GoogleCentered)!
 
 Show your support and hit that Star :P
 
