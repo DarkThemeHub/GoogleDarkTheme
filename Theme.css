@@ -1,7 +1,5 @@
-
 html {
     background-color: #25272a !important;
-
 }
 /* google.com button */
 .jhp input[type="submit"] {
@@ -9,7 +7,9 @@ html {
 }
 /* map widget in search result */
 
-.vk_c, .vk_cxp, .yyjhs {
+.vk_c,
+.vk_cxp,
+.yyjhs {
     background-color: unset !important;
 }
 .uMdZh:hover {
@@ -21,9 +21,17 @@ html {
 }
 /* first result/ preview big text */
 .Z0LcW {
-	color:#fff;
-   }
-   
+    color: #fff;
+}
+/* view 10+ more page https://www.google.com/search?sa=X&hl=en&sxsrf=ALeKk02oDcIw58SaccCYdQ1gRNX1MBiYxg:1588901797453&q=Financial+index&stick=H4sIAAAAAAAAAONgFuLQz9U3MIo3L1GCs7REspOt9JPzc3Pz86xS8svzyhOLUopXMUoBxXJyUpNLMvPz9HMTi7JTS-Iz81JSK1KLF7Hyu2XmJeYlZybmKIDFdrAyAgDSD95vXgAAAA&ved=2ahUKEwjiiuG5kKPpAhUME8AKHUInAA8QzTooATAjegQIDxAC&biw=2327&bih=1188&dpr=1.1*/
+/* - cards at top */
+.ABd7Db {
+    background-color: transparent;
+}
+.ANCoQe {
+    background-color: #404452;
+}
+
 /* Maps */
 /* - top bar */
 #rllhd__fldhc {
@@ -35,14 +43,14 @@ html {
     background-color: #25272a !important;
 }
 .w3RMhb:hover {
-    background-color: #39424a !important; 
+    background-color: #39424a !important;
 }
 .w3RMhb .zFsEvf {
     color: white;
 }
 /* - businesses items */
 .rllt__local-item-selected {
-    background-color: #39424a !important; 
+    background-color: #39424a !important;
 }
 /*apps gallery dropdown*/
 /*
@@ -245,7 +253,7 @@ header {
     border: none;
 }
 RScZKc {
-    color:white !important;
+    color: white !important;
 }
 /*safe search*/
 .jq2rAe {
@@ -270,7 +278,7 @@ scrolling-carousel {
     margin-bottom: 10px;
 }
 scrolling-carousel div span div a:hover {
-	background-color: #39424a;
+    background-color: #39424a;
 }
 
 /* Maps */
