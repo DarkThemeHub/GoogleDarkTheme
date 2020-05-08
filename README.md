@@ -3,7 +3,10 @@
 [![image](https://img.shields.io/github/contributors/DarkThemehub/GoogleDarkTheme?style=flat-square)](https://github.com/DarkThemeHub/GithubDarkTheme/graphs/contributors)
 [![image](https://img.shields.io/github/size/Darkthemehub/GoogleDarkTheme/Generated/github.user.styl?color=purple&label=Theme%20size&style=flat-square)](https://github.com/DarkThemeHub/GoogleDarkTheme/blob/master/Generated/github.user.styl)
 # GoogleDarkTheme
-Show your support and hit that Star :P
+
+Hey! Also use this with [Google Centered](https://github.com/DarkThemeHub/GoogleCentered)!
+
+Support us by hitting that Star and show your friends :P
 
 [Join the discord](https://discord.gg/pSs9YYn) to stay up to date with releases and submit other suggestions
 
