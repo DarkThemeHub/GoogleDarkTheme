@@ -6,7 +6,7 @@
 
 Hey! Also use this with [Google Centered](https://github.com/DarkThemeHub/GoogleCentered)!
 
-Support us by hitting that Star and show your friends :P
+Support us by hitting that Star and showing your friends :P
 
 [Join the discord](https://discord.gg/pSs9YYn) to stay up to date with releases and submit other suggestions
 
