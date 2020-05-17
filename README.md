@@ -2,7 +2,7 @@
 [![image](https://img.shields.io/github/release-date/darkthemehub/GoogleDarkTheme?color=%23DD7A00&label=Last%20updated&style=flat-square)](https://github.com/DarkThemeHub/GoogleDarkTheme/releases)
 [![image](https://img.shields.io/github/contributors/DarkThemehub/GoogleDarkTheme?style=flat-square)](https://github.com/DarkThemeHub/GithubDarkTheme/graphs/contributors)
 [![image](https://img.shields.io/github/size/Darkthemehub/GoogleDarkTheme/Generated/github.user.styl?color=purple&label=Theme%20size&style=flat-square)](https://github.com/DarkThemeHub/GoogleDarkTheme/blob/master/Generated/github.user.styl)
-# GoogleDarkTheme (Alpha)
+# GoogleDarkTheme (Alpha-Release)
 
 Hey! Also use this with [Google Centered](https://github.com/DarkThemeHub/GoogleCentered)!
 
