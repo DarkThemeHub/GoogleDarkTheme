@@ -2,6 +2,7 @@
 [![image](https://img.shields.io/github/release-date/darkthemehub/GoogleDarkTheme?color=%23DD7A00&label=Last%20updated&style=flat-square)](https://github.com/DarkThemeHub/GoogleDarkTheme/releases)
 [![image](https://img.shields.io/github/contributors/DarkThemehub/GoogleDarkTheme?style=flat-square)](https://github.com/DarkThemeHub/GithubDarkTheme/graphs/contributors)
 [![image](https://img.shields.io/github/size/Darkthemehub/GoogleDarkTheme/Generated/github.user.styl?color=purple&label=Theme%20size&style=flat-square)](https://github.com/DarkThemeHub/GoogleDarkTheme/blob/master/Generated/github.user.styl)
+
 # GoogleDarkTheme (Alpha-Release)
 
 Hey! Try this with [Google Centered](https://github.com/DarkThemeHub/GoogleCentered)!
@@ -12,33 +13,36 @@ Support us by hitting that Star and showing your friends :P
 
 [How to Contribute](https://github.com/DarkThemeHub/GoogleDarkTheme/blob/master/CONTRIBUTING.md)
 
-[Regex Test](https://regex101.com/r/G2PPry/8)
+[Regex Test](https://regex101.com/r/G2PPry/9)
 
 <hr>
 
 ## Install the theme
 
 ##### Step 1 (if not already installed Stylus browser extension)
-[![image](https://img.shields.io/badge/Install-Stylus%20Chrome%20Extension-116b59.svg?longCache=true&amp;style=for-the-badge)](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne/)
 
-[![image](https://img.shields.io/badge/Install-Stylus%20Firefox%20Extension-116b59.svg?longCache=true&amp;style=for-the-badge)](https://addons.mozilla.org/en-GB/firefox/addon/styl-us/)
+[![image](https://img.shields.io/badge/Install-Stylus%20Chrome%20Extension-116b59.svg?longCache=true&style=for-the-badge)](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne/)
+
+[![image](https://img.shields.io/badge/Install-Stylus%20Firefox%20Extension-116b59.svg?longCache=true&style=for-the-badge)](https://addons.mozilla.org/en-GB/firefox/addon/styl-us/)
 
 ##### Step 2
-[![image](https://img.shields.io/badge/Install/Update%20directly%20with-Stylus-116b59.svg?longCache=true&amp;style=for-the-badge)](https://raw.githubusercontent.com/DarkThemeHub/GoogleDarkTheme/master/Generated/github.user.styl)
+
+[![image](https://img.shields.io/badge/Install/Update%20directly%20with-Stylus-116b59.svg?longCache=true&style=for-the-badge)](https://raw.githubusercontent.com/DarkThemeHub/GoogleDarkTheme/master/Generated/github.user.styl)
 
 <hr>
 
 # Join the DarkThemeHub Team
+
 DarkThemeHub's goal is to create an active dark theme community that maintain quality dark themes for websites frequently used by developers.
 
 Join our discord and message Snazzie to sign up.
 
 Requirements:
-* History of quality contributions (Not limited to this repository)
-* Well mannered
-* Can communicate well in english 
-* Knows basics of css and html
 
+-   History of quality contributions (Not limited to this repository)
+-   Well mannered
+-   Can communicate well in english
+-   Knows basics of css and html
 
 <hr>
 <table><tr><td>

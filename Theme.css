@@ -1,6 +1,11 @@
 html {
     background-color: #25272a !important;
 }
+
+body {
+    color: #fff !important;
+}
+
 /* google.com button */
 .jhp input[type="submit"] {
     background-image: none !important;
@@ -24,7 +29,8 @@ html {
 .cbphWd,
 .mod,
 .iOBnre,
-.ep3ODe .V2Zq0e {
+.ep3ODe .V2Zq0e,
+.eJ7tvc {
     color: white !important;
 }
 
@@ -236,10 +242,6 @@ g-more-link span,
     color: #4183c4 !important;
 }
 
-#hdtb-tls:hover {
-    background-color: #333 !important;
-}
-
 a.q.qs,
 #hdtb .hdtb-mitem a,
 #hdtb-msb #hdtb-tls,
@@ -261,7 +263,8 @@ cite {
     color: #b0b0b0 !important;
 }
 
-.Ftghae span {
+.Ftghae span,
+.hb8SAc {
     color: white !important;
 }
 
@@ -301,8 +304,10 @@ body {
 
 .XD1Bsc,
 .XD1Bsc:hover,
-.ZXJQ7c:hover {
+.ZXJQ7c:hover,
+#hdtb-tls:hover {
     background: transparent !important;
+    background-image: none !important;
 }
 
 .jZWadf,
@@ -390,4 +395,38 @@ scrolling-carousel div span div a:hover {
 :root {
     scrollbar-color: rgba(175, 175, 175, 0.5) #1d1d1d !important;
     scrollbar-width: thin !important;
+}
+
+/* Weather Widget */
+.vk_gy {
+    color: unset !important;
+}
+.vk_bk {
+    color: White !important;
+}
+.wob_ds {
+    background-color: transparent !important;
+}
+
+/* Dictionary Widget */
+.uUoqX,
+.vTBzab,
+.YfpbIe,
+.E8O4U,
+.gJBeNe {
+    color: white !important;
+}
+.K5fD7e {
+    color: #cacaca !important;
+}
+
+/* News Page */
+
+.nDgy9d {
+    color: #4183c4 !important;
+}
+.Y3v8qd,
+.isfR2,
+.XTjFC {
+    color: white !important;
 }
