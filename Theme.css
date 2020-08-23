@@ -54,6 +54,10 @@ body {
     color: white !important;
 }
 
+.kLhEKe {
+    background-color: unset;
+}
+
 /* Maps */
 /* - top bar */
 #rllhd__fldhc {
@@ -421,12 +425,23 @@ scrolling-carousel div span div a:hover {
 }
 
 /* News Page */
-
+.JheGif,
 .nDgy9d {
     color: #4183c4 !important;
 }
 .Y3v8qd,
 .isfR2,
 .XTjFC {
+    color: white !important;
+}
+
+/* Top Stories */
+.tYlW7b > span {
+    color: #70757a !important;
+}
+
+/* Books */
+
+.cmlJmd {
     color: white !important;
 }
