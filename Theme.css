@@ -134,10 +134,6 @@ li.sbct div,
 h2 {
     color: white !important;
 }
-input {
-    color: white !important;
-    background-color: transparent !important;
-}
 
 /*search dropdown highlight */
 li.sbhl,
@@ -461,4 +457,14 @@ scrolling-carousel div span div a:hover {
 
 .LN9Pb {
     background-color: #25272a !important;
+}
+
+/* dictionary wdiget */
+
+.kp-blk {
+    background: transparent !important;
+}
+
+#tl_select {
+    color: black !important;
 }
