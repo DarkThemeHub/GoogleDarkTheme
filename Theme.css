@@ -463,7 +463,7 @@ scrolling-carousel div span div a:hover {
     background-color: #25272a !important;
 }
 
-/* dictionary wdiget */
+/* dictionary widget */
 
 .kp-blk {
     background: transparent !important;
@@ -471,4 +471,32 @@ scrolling-carousel div span div a:hover {
 
 #tl_select {
     color: black !important;
+}
+
+
+/* translate widget */
+
+#tw-target {
+    background: transparent !important;
+}
+
+.zaokob {
+    background: #25272a !important;
+}
+
+#tw-source-rmn, 
+#tw-source-text-ta,
+.language_list_item,
+.tw-lp-search, 
+#tw-target-rmn.tw-data-text,
+#tw-ob:not(.tw-ets) #tw-target .tw-data-placeholder {
+    color: white !important;
+}
+
+.z1asCe svg {
+    fill: white !important;
+}
+
+.tw-lliw:hover, .tw-lliw:focus{
+    background: #39424a !important;
 }
