@@ -463,7 +463,7 @@ scrolling-carousel div span div a:hover {
     background-color: #25272a !important;
 }
 
-/* dictionary wdiget */
+/* dictionary widget */
 
 .kp-blk {
     background: transparent !important;
@@ -478,6 +478,10 @@ scrolling-carousel div span div a:hover {
 
 #tw-target {
     background: transparent !important;
+}
+
+.zaokob {
+    background: #25272a !important;
 }
 
 #tw-source-rmn, 
