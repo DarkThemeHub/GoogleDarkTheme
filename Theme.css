@@ -472,3 +472,25 @@ scrolling-carousel div span div a:hover {
 #tl_select {
     color: black !important;
 }
+
+
+/* translate widget */
+
+#tw-target {
+    background: transparent !important;
+}
+
+#tw-source-rmn, 
+#tw-source-text-ta,
+.language_list_item,
+.tw-lp-search {
+    color: white !important;
+}
+
+.z1asCe svg {
+    fill: white !important;
+}
+
+.tw-lliw:hover, .tw-lliw:focus{
+    background: #39424a !important;
+}
