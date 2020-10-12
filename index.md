@@ -1,37 +1,53 @@
-## Welcome to GitHub Pages
+[![image](https://img.shields.io/github/v/release/Darkthemehub/GoogleDarkTheme?style=flat-square)](https://github.com/DarkThemeHub/GoogleDarkTheme/releases/latest)
+[![image](https://img.shields.io/github/release-date/darkthemehub/GoogleDarkTheme?color=%23DD7A00&label=Last%20updated&style=flat-square)](https://github.com/DarkThemeHub/GoogleDarkTheme/releases)
+[![image](https://img.shields.io/github/size/Darkthemehub/GoogleDarkTheme/Generated/github.user.styl?color=purple&label=Theme%20size&style=flat-square)](https://github.com/DarkThemeHub/GoogleDarkTheme/blob/master/Generated/github.user.styl)
 
-You can use the [editor on GitHub](https://github.com/DarkThemeHub/GoogleDarkTheme/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# GoogleDarkTheme (Alpha-Release)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hey! Try this with [Google Centered](https://github.com/DarkThemeHub/GoogleCentered)!
 
-### Markdown
+Support us by hitting that Star and showing your friends :P
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Join the discord](https://discord.gg/pSs9YYn) to stay up to date with releases and submit other suggestions
 
-```markdown
-Syntax highlighted code block
+[How to Contribute](https://github.com/DarkThemeHub/GoogleDarkTheme/blob/master/CONTRIBUTING.md)
 
-# Header 1
-## Header 2
-### Header 3
+[Regex Test](https://regex101.com/r/G2PPry/9)
 
-- Bulleted
-- List
+<hr>
 
-1. Numbered
-2. List
+## Install the theme
 
-**Bold** and _Italic_ and `Code` text
+##### Step 1 (if not already installed Stylus browser extension)
 
-[Link](url) and ![Image](src)
-```
+[![image](https://img.shields.io/badge/Install-Stylus%20Chrome%20Extension-116b59.svg?longCache=true&style=for-the-badge)](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne/)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[![image](https://img.shields.io/badge/Install-Stylus%20Firefox%20Extension-116b59.svg?longCache=true&style=for-the-badge)](https://addons.mozilla.org/en-GB/firefox/addon/styl-us/)
 
-### Jekyll Themes
+##### Step 2
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DarkThemeHub/GoogleDarkTheme/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[![image](https://img.shields.io/badge/Install/Update%20directly%20with-Stylus-116b59.svg?longCache=true&style=for-the-badge)](https://raw.githubusercontent.com/DarkThemeHub/GoogleDarkTheme/master/Generated/github.user.styl)
 
-### Support or Contact
+<hr>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Join the DarkThemeHub Team
+
+DarkThemeHub's goal is to create an active dark theme community that maintain quality dark themes for websites frequently used by developers.
+
+Join our discord and message Snazzie to sign up.
+
+Requirements:
+
+-   History of quality contributions (Not limited to this repository)
+-   Well mannered
+-   Can communicate well in english
+-   Knows basics of css and html
+
+<hr>
+<table><tr><td>
+<img border="10" src="https://i.gyazo.com/2e05020f9f84552b7848fc6370d1c7d5.png"/>
+</td></tr></table>
+<table><tr><td>
+<img src="https://i.gyazo.com/f915f52917c1d9415134b333e55b3681.png"/>
+</td></tr></table>
+<hr>
