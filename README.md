@@ -12,7 +12,9 @@ This project is now retired. The reason for this is due to googles terrible css 
 * Setting background to white for elements that already sit on white background. Which breaks this theme every time the css name usage changes and my overrides no longer are applied.
 * Multi level white background setting for the same element.
 
-It would be so much easier to use javascript to override programatically. Though i dont see myself providing that solution as it already exists. https://nighteye.app/
+It would be so much easier to use javascript to override programatically. Though i dont see myself providing that solution as it already exists. 
+
+### Google just released their own dark theme on 10/02/2021
 
 <hr>
 
